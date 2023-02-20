@@ -7,5 +7,13 @@
       "cosmos1eu4fdj94kneqqqjs5g3cwdvlayz8x5gn779sjv",
       "cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd"
     ]
+  },
+  {
+    "entity": "Interchain Foundation",
+    "twitterHandle": "interchain_io",
+    "addresses": [
+      "cosmos1unc788q8md2jymsns24eyhua58palg5kc7cstv",
+      "cosmos17u903qxqc6dzn3chvmc9zzp9fl4xja0pwggfj7"
+    ]
   }
 ]
