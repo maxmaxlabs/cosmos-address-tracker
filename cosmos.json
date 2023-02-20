@@ -5,7 +5,10 @@
     "addresses": [
       "cosmos13w3uzqu8yjups2r4rgw7cy0jxe9nya5966j68g",
       "cosmos1eu4fdj94kneqqqjs5g3cwdvlayz8x5gn779sjv",
-      "cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd"
+      "cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd",
+      "cosmos18zdww6md2ym8yfat9h0aztcts5vad2nh07w48x",
+      "cosmos105hssfshxkdrj4ycpdd5yn00wmscjyfc6vk6zw",
+      "cosmos1a3yjj7d3qnx4spgvjcwjq9cw9snrrrhu3rw8nv"
     ]
   },
   {
@@ -22,6 +25,24 @@
     "addresses": [
       "cosmos1l0znsvddllw9knha3yx2svnlxny676d8ns7uys",
       "cosmos16k579jk6yt2cwmqx9dz5xvq9fug2tekv6g34pl"
+    ]
+  },
+  {
+    "entity": "Ignite",
+    "twitterHandle": "Allinbits_inc",
+    "addresses": ["cosmos15hmqrc245kryaehxlch7scl9d9znxa58qkpjet"]
+  },
+  {
+    "entity": "Kraken",
+    "twitterHandle": "krakenfx",
+    "addresses": ["cosmos1nm0rrq86ucezaf8uj35pq9fpwr5r82cl8sc7p5"]
+  },
+  {
+    "entity": "Dokia Capial",
+    "twitterHandle": "krakenfx",
+    "addresses": [
+      "cosmos14lultfckehtszvzw4ehu0apvsr77afvyhgqhwh",
+      "cosmos1dtq0y9reqst7d99fd3c7x6dflh4eazm4ha8qqh"
     ]
   }
 ]
